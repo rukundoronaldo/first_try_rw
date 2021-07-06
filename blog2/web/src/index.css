@@ -1,0 +1,11 @@
+.error {
+  border: 1px solid red;
+}
+
+Label, TelField, FieldError, TextAreaField {
+  display: block;
+}
+
+.er {
+  display: block;
+}
